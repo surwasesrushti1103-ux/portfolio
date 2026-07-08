@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+
+# OS generated files
+ehthumbs.db
+Icon?
+
+# Node modules (if added later)
+node_modules/
