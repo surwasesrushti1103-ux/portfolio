@@ -1,0 +1,2 @@
+#power query editor for cleaning data
+#category ,sub-category, segments and region has to be compared with sales, profit ,discount and quantity
